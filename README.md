@@ -44,6 +44,7 @@ When filing a feature request, it's important to include:
 ### Saving changes to your code on your computer
 
 ### Editing files in the browser
+When you are done, click on codespaces in the bottom left to and click "Stop Current Codespace" to turn off the VM. You can come back to it later! However, after some time (a few days) it will be deleted.
 
 ## Submitting a pull request to resolve an issue
 
