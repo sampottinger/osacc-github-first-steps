@@ -44,7 +44,17 @@ When filing a feature request, it's important to include:
 ### Saving changes to your code on your computer
 
 ### Editing files in the browser
-When you are done, click on codespaces in the bottom left to and click "Stop Current Codespace" to turn off the VM. You can come back to it later! However, after some time (a few days) it will be deleted.
+This code editor is running a full fledged machine in the cloud! If you click on terminal at the bottom of the screen, you can even execute commands.
+
+When you are ready to send up your changes, you can open a new branch
+
+![Screenshot pointing to where a new branch can be created](webeditor_4.jpg).
+
+Then, make a commit on the left side of the screen.
+
+![Screenshot pointing to where commits can be submitted](webeditor_5.jpg).
+
+When you are done, click on codespaces in the bottom left to and click "Stop Current Codespace" to turn off the machine in the cloud that is running your code editor. You can come back to it later! However, after some time (a few days) it will be deleted.
 
 ## Submitting a pull request to resolve an issue
 
